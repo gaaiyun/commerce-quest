@@ -1,0 +1,214 @@
+{
+  "version": 1,
+  "origin": "为本作生成的美术；非第三方游戏资源，不标记为 CC0。保留生成原图和完整提示词。",
+  "assets": [
+    {
+      "key": "key-art",
+      "file": "key-art.webp",
+      "width": 1672,
+      "height": 941,
+      "grid": [
+        1,
+        1
+      ],
+      "bytes": 259310,
+      "sha256": "3701041a4bb73242d18526ffd31f633e4fd91a477ac7717ebb4b8ccaa81f225a",
+      "originalSha256": "fad8a520642048adfbe88d14cde33ef374d6fcdb3a3b88422a024d3ac0ae45d3"
+    },
+    {
+      "key": "scene-store",
+      "file": "scene-store.webp",
+      "width": 1672,
+      "height": 941,
+      "grid": [
+        1,
+        1
+      ],
+      "bytes": 338996,
+      "sha256": "f76e40da58c1dafb8597e5b6ce8083cb76cbca6af6f51397ef97bf74de4598a2",
+      "originalSha256": "39936016c5e57fc28300fa86f4635a53e2d66293b2d9465ad1b0e3b924a5e629"
+    },
+    {
+      "key": "scene-office",
+      "file": "scene-office.webp",
+      "width": 1672,
+      "height": 941,
+      "grid": [
+        1,
+        1
+      ],
+      "bytes": 241624,
+      "sha256": "d876718a52213625f50ac520a700bd3cc500f5b19e847c4150a885e0edb39e9d",
+      "originalSha256": "92fb65afeaffa0c59dcea06be97068700b1f549d4ec66a7afca584a781310211"
+    },
+    {
+      "key": "scene-warehouse",
+      "file": "scene-warehouse.webp",
+      "width": 1672,
+      "height": 941,
+      "grid": [
+        1,
+        1
+      ],
+      "bytes": 273240,
+      "sha256": "36b494f50587f7b5cf7723f852da568d6183db77151823c0e89f2a6001787712",
+      "originalSha256": "9962349b7a4061c83b1f1f04de4e3ce6299c8e28ffa78dccc521cdaa43705d88"
+    },
+    {
+      "key": "scene-showroom",
+      "file": "scene-showroom.webp",
+      "width": 1536,
+      "height": 1024,
+      "grid": [
+        1,
+        1
+      ],
+      "bytes": 194694,
+      "sha256": "14ea8b8ffdc9c8ed958b2c822dc420f8dbadc7e217a2adf671b30c0a5d786ab3",
+      "originalSha256": "00cb5538730a5a0b8769d127689c10d75212e9484ae309dd311d0572f8754e1e"
+    },
+    {
+      "key": "scene-crossborder",
+      "file": "scene-crossborder.webp",
+      "width": 1536,
+      "height": 1024,
+      "grid": [
+        1,
+        1
+      ],
+      "bytes": 220094,
+      "sha256": "3986636a7d067e7828c62cd4a50bda1d3c1857fbaf96e73569a652be62e7e32d",
+      "originalSha256": "61bcba11a6c5a6208bf7c8edf1e7f3096e104608ed11e8fd41a64bf7ad8fac75"
+    },
+    {
+      "key": "portraits-a",
+      "file": "portraits-a.webp",
+      "width": 1672,
+      "height": 941,
+      "grid": [
+        3,
+        1
+      ],
+      "bytes": 95386,
+      "sha256": "6cb84167046f42e6c9e94e13f6c892b765544e246022d99e966848b6dafd4005",
+      "originalSha256": "ee0282f951b98f095b5bac053521fc65cadaed5b37d039f9ccc7a29e4e69afa5"
+    },
+    {
+      "key": "portraits-b",
+      "file": "portraits-b.webp",
+      "width": 1672,
+      "height": 941,
+      "grid": [
+        3,
+        1
+      ],
+      "bytes": 100738,
+      "sha256": "d1528782c30fd88ce10d61ba1c62ae90b8fe7b3f12a680230083e19c44dedd7c",
+      "originalSha256": "579b983c33fe889fc6bcedac7cfbd11d0ffb01e4afb5f57a8d2125e99dddb071"
+    },
+    {
+      "key": "portraits-c",
+      "file": "portraits-c.webp",
+      "width": 1672,
+      "height": 941,
+      "grid": [
+        3,
+        1
+      ],
+      "bytes": 93250,
+      "sha256": "0ac64b6a86f437f9ce5a87c564264ff9a7d04846fa3268b78d8266187000aaac",
+      "originalSha256": "0de05013423e8ff47f1e22a3b7fd0a69f1b4e488c50f43f64f1ffef8d304f9f5"
+    },
+    {
+      "key": "products-fmcg",
+      "file": "products-fmcg.webp",
+      "width": 1086,
+      "height": 814,
+      "grid": [
+        4,
+        3
+      ],
+      "bytes": 54250,
+      "sha256": "3f460c6e17bd886e4a6930c26e53bff08257614f1c3c7b02bf54e930c91d1cd9",
+      "originalSha256": "5de47c570f7521bd9059f426ed3d285b49f4ab17597f1f56dc8abe5ddb1f2bc5"
+    },
+    {
+      "key": "products-appliance",
+      "file": "products-appliance.webp",
+      "width": 1330,
+      "height": 665,
+      "grid": [
+        4,
+        2
+      ],
+      "bytes": 26816,
+      "sha256": "0783fcd57a2543d0b32911bcacfb72502c04dbe4df627da520ab5d51fd973760",
+      "originalSha256": "090b6a08f3731e9baa0ae40cd18891b378608115f027bcf6b5afd2a793cc90bd"
+    },
+    {
+      "key": "products-home",
+      "file": "products-home.webp",
+      "width": 940,
+      "height": 940,
+      "grid": [
+        3,
+        3
+      ],
+      "bytes": 46054,
+      "sha256": "110ce697174a2082a32b69f08e49f1efbdf08dac9d0c38d35ed0d1149f4f5a4e",
+      "originalSha256": "9254552e0998e9a8b334ce6827970da3e5ec540a351677a37635c90d1d30dee0"
+    },
+    {
+      "key": "events",
+      "file": "events.webp",
+      "width": 1536,
+      "height": 1024,
+      "grid": [
+        3,
+        2
+      ],
+      "bytes": 161298,
+      "sha256": "b86cbc4f320969438cd0738b6cb0e1672539bd573f1f6a9a3a1067e64fef6713",
+      "originalSha256": "8e32a4ddea7b9db70d3d79f8bd24c9a8436a9b332cd8e140830f9c604c461517"
+    },
+    {
+      "key": "brand-emblem",
+      "file": "brand-emblem.webp",
+      "width": 320,
+      "height": 320,
+      "grid": [
+        1,
+        1
+      ],
+      "bytes": 15246,
+      "sha256": "d92a1a624e4c0928566658b372392dd55a47fbfdca7062381c1cc99a7b13f58a",
+      "originalSha256": "9a99dae55c00a829401dc6ad1642b4fc771688fbd7f9184f31bb5c15195a624b"
+    },
+    {
+      "key": "portrait-player",
+      "file": "portrait-player.webp",
+      "width": 1086,
+      "height": 1448,
+      "grid": [
+        1,
+        1
+      ],
+      "bytes": 82280,
+      "sha256": "ad9bc07103b3cf157c27becfb558f32f0feed023c4c97942a86c0769ff8674c7",
+      "originalSha256": "43b6421be3c0e8995d344fcc1881d8d30a23e80642b5c14f0c6e7509d16202d1"
+    },
+    {
+      "key": "scene-ecommerce",
+      "file": "scene-ecommerce.webp",
+      "width": 1672,
+      "height": 941,
+      "grid": [
+        1,
+        1
+      ],
+      "bytes": 168068,
+      "sha256": "10ab90c1b1e351dac1ac2ac48ca9cc0d6dc9a5276320690a9dab7daf4679fe5e",
+      "originalSha256": "4d66d806a8e3ad3a376948b36b239593396ff0757c4357430444fa6e0d629ce8"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "version": 4,
+  "origin": "本作原创生成概念稿。使用内置 imagegen 工具，不标为 CC0。",
+  "assets": [
+    {
+      "key": "character-study-v2",
+      "file": "character-study-v2.webp",
+      "width": 1536,
+      "height": 1024,
+      "grid": [
+        1,
+        1
+      ],
+      "bytes": 113704,
+      "sha256": "2e66b6dc5c787acd7df4379f734983c30782cda69f053046fa0efacea45387a0",
+      "originalSha256": "59b17dccfce3d991ee601de805e3fec61e2da182c4a7029633c343e867bc0744"
+    },
+    {
+      "key": "face-study-v1",
+      "file": "face-study-v1.webp",
+      "width": 1254,
+      "height": 1254,
+      "grid": [
+        1,
+        1
+      ],
+      "bytes": 78046,
+      "sha256": "4bff13f4664783706342c89f5ca1dc2570d11c392010860967575d2f35c2c652",
+      "originalSha256": "89fd776497958e9f638afe5096bf8ecbf7b8510737668f5cbb7dc863032cb8b0"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>生意进行时 · 隐私说明</title>
+<style>
+  :root { --bg: #f7f5f0; --ink: #1f2a33; --muted: #5d6b75; --line: #d9d4c8; }
+  @media (prefers-color-scheme: dark) { :root { --bg: #151b22; --ink: #e8e4da; --muted: #9aa7b1; --line: #33404b; } }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.75 system-ui, "PingFang SC", "Microsoft YaHei", sans-serif; }
+  main { max-width: 760px; margin: 0 auto; padding: 32px 16px 64px; }
+  h1 { font-size: 1.6em; margin: 0 0 4px; }
+  h2 { font-size: 1.15em; margin: 28px 0 6px; padding-top: 12px; border-top: 1px solid var(--line); }
+  .muted { color: var(--muted); font-size: .92em; }
+  table { border-collapse: collapse; width: 100%; font-size: .94em; }
+  th, td { border-bottom: 1px solid var(--line); padding: 6px 8px; text-align: left; vertical-align: top; }
+</style>
+</head>
+<body>
+<main>
+  <h1>《生意进行时》隐私说明</h1>
+  <p class="muted">最近更新：2026 年 10 月 19 日</p>
+
+  <p>《生意进行时》是单人游戏。不登录也能完整游玩，这时进度只保存在你的电脑或浏览器里，不会发送到任何服务器。</p>
+
+  <h2>不登录时</h2>
+  <p>存档、设置、玩家档案和成就保存在本机：网页版在浏览器的本地存储里，桌面版在系统的应用数据目录（Windows：<code>%APPDATA%\commerce-quest</code>）。通过 Steam 游玩并开启 Steam 云时，Steam 会按你的 Steam 设置同步这个目录里的存档。</p>
+  <p>游戏不包含广告、统计分析或第三方追踪代码。</p>
+
+  <h2>使用可选的云账号时</h2>
+  <p>云账号用于跨设备同步存档、合并成就和参加每周挑战排行榜。我们保存：</p>
+  <table>
+    <tr><th>内容</th><th>用途</th></tr>
+    <tr><td>用户名</td><td>登录、在排行榜上显示</td></tr>
+    <tr><td>密码的校验值</td><td>验证登录。密码先在你的设备上加密（PBKDF2-SHA256，60 万次），服务器只收到加密结果，再加随机盐哈希保存，看不到原始密码</td></tr>
+    <tr><td>恢复码的哈希</td><td>忘记密码时凭恢复码重设</td></tr>
+    <tr><td>你上传的存档</td><td>跨设备继续游戏</td></tr>
+    <tr><td>成就与解锁时间</td><td>跨设备合并成就</td></tr>
+    <tr><td>你提交的通关记录（种子、操作记录、角色名、成绩）</td><td>服务器重算成绩、显示排行榜</td></tr>
+    <tr><td>登录会话（只存令牌的哈希）</td><td>保持登录，30 天未使用自动过期</td></tr>
+    <tr><td>IP 地址的加盐哈希与计数</td><td>限制注册和登录频率，防止暴力破解；一天内清理</td></tr>
+  </table>
+  <p>我们不收集邮箱、手机号、真实姓名或支付信息，也不把数据出售或提供给第三方用于营销。</p>
+
+  <h2>数据存在哪里</h2>
+  <p>云服务运行在 Cloudflare Workers，数据存放在 Cloudflare D1 数据库。Cloudflare 作为基础设施服务商按其自身的隐私政策处理网络请求。</p>
+
+  <h2>你可以做什么</h2>
+  <ul>
+    <li>在游戏「账号与档案」里删除任意一个云存档。</li>
+    <li>在「账号与档案 → 注销云账号」输入密码后，永久删除云端的账号、存档、成就和通关记录。</li>
+    <li>本机数据可以在游戏里删除档案或存档，或直接删除上面提到的本机目录。</li>
+  </ul>
+
+  <h2>联系</h2>
+  <p>关于隐私的问题，请在游戏的 Steam 社区讨论区或项目仓库 <a href="https://github.com/gaaiyun/commerce-quest">github.com/gaaiyun/commerce-quest</a> 提出。</p>
+</main>
+</body>
+</html>

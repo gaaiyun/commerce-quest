@@ -1,0 +1,500 @@
+{
+  "version": 1,
+  "origin": "本作原创图像，使用内置 imagegen 生成。非第三方动画素材，非 CC0。参考网页仅用于视觉研究，不打包第三方原图。",
+  "assets": [
+    {
+      "key": "products-home",
+      "file": "products-home.webp",
+      "width": 1254,
+      "height": 1254,
+      "grid": [
+        3,
+        3
+      ],
+      "frames": [
+        [
+          0,
+          0,
+          439,
+          426
+        ],
+        [
+          439,
+          0,
+          403,
+          426
+        ],
+        [
+          842,
+          0,
+          412,
+          426
+        ],
+        [
+          0,
+          426,
+          439,
+          410
+        ],
+        [
+          439,
+          426,
+          403,
+          410
+        ],
+        [
+          842,
+          426,
+          412,
+          410
+        ],
+        [
+          0,
+          836,
+          439,
+          418
+        ],
+        [
+          439,
+          836,
+          403,
+          418
+        ],
+        [
+          842,
+          836,
+          412,
+          418
+        ]
+      ],
+      "bytes": 156830,
+      "sha256": "0be00327515dc03367e10540ea0c7c87de9a5a73580e4a0a91928cc29de04222",
+      "originalSha256": "53114a035c81c11103ac4750d1a0a03a25e4fb7990766b3dd5107216f0a34d47"
+    },
+    {
+      "key": "brand-emblem",
+      "file": "brand-emblem.webp",
+      "width": 320,
+      "height": 287,
+      "grid": [
+        1,
+        1
+      ],
+      "bytes": 7218,
+      "sha256": "6b3661f17221d67792a467a276ec0986c1428b668b7f9f22725c22ef883c6d42",
+      "originalSha256": "90429bacab2d8f459215955502fcd07793c71fda83669456ae8aa6d03fdaf46b"
+    },
+    {
+      "key": "scene-crossborder",
+      "file": "scene-crossborder.webp",
+      "width": 1672,
+      "height": 941,
+      "grid": [
+        1,
+        1
+      ],
+      "bytes": 119784,
+      "sha256": "4c08e78168d48da740dc4682470bf89e005f4fedea0a64c7224efb9a305f25eb",
+      "originalSha256": "dd2b6bc06232be5f05b0ab8070c16c3d370949ea6c6e1dd92d17d46c7d1b7fd7"
+    },
+    {
+      "key": "scene-ecommerce",
+      "file": "scene-ecommerce.webp",
+      "width": 1672,
+      "height": 941,
+      "grid": [
+        1,
+        1
+      ],
+      "bytes": 120040,
+      "sha256": "2822ef9b8ba7af27b1d45d818165e1904d3a30a59d44c01301ecc3f6806f24fe",
+      "originalSha256": "5ea1f26cd8ce54368a021235c1d473295a91fa84be36cc0b6d0de55c479af90d"
+    },
+    {
+      "key": "products-fmcg",
+      "file": "products-fmcg.webp",
+      "width": 1448,
+      "height": 1086,
+      "grid": [
+        4,
+        3
+      ],
+      "frames": [
+        [
+          0,
+          0,
+          381,
+          383
+        ],
+        [
+          381,
+          0,
+          340,
+          383
+        ],
+        [
+          721,
+          0,
+          355,
+          383
+        ],
+        [
+          1076,
+          0,
+          372,
+          383
+        ],
+        [
+          0,
+          383,
+          381,
+          348
+        ],
+        [
+          381,
+          383,
+          340,
+          348
+        ],
+        [
+          721,
+          383,
+          355,
+          348
+        ],
+        [
+          1076,
+          383,
+          372,
+          348
+        ],
+        [
+          0,
+          731,
+          381,
+          355
+        ],
+        [
+          381,
+          731,
+          340,
+          355
+        ],
+        [
+          721,
+          731,
+          355,
+          355
+        ],
+        [
+          1076,
+          731,
+          372,
+          355
+        ]
+      ],
+      "bytes": 180840,
+      "sha256": "6e85406b924c639e44821c20d6be01143135ee2be687f40741e3a3de3e3b4375",
+      "originalSha256": "ce5920d4d4d411f59799c403385b4249bafaeb1876dbb6462ff094d2c05280e7"
+    },
+    {
+      "key": "products-appliance",
+      "file": "products-appliance.webp",
+      "width": 1774,
+      "height": 887,
+      "grid": [
+        4,
+        2
+      ],
+      "frames": [
+        [
+          0,
+          0,
+          481,
+          430
+        ],
+        [
+          481,
+          0,
+          439,
+          430
+        ],
+        [
+          920,
+          0,
+          408,
+          430
+        ],
+        [
+          1328,
+          0,
+          446,
+          430
+        ],
+        [
+          0,
+          430,
+          481,
+          457
+        ],
+        [
+          481,
+          430,
+          439,
+          457
+        ],
+        [
+          920,
+          430,
+          408,
+          457
+        ],
+        [
+          1328,
+          430,
+          446,
+          457
+        ]
+      ],
+      "bytes": 112320,
+      "sha256": "762d7834178846e14b338a285d057db7cb487696a9239afddf993119ea02acd6",
+      "originalSha256": "db19dace63667b28b77cf4da6d029db550a9462ead6a6fef6569eb248c8a4a54"
+    },
+    {
+      "key": "chibi-team",
+      "file": "chibi-team.webp",
+      "width": 1774,
+      "height": 887,
+      "grid": [
+        5,
+        2
+      ],
+      "frames": [
+        [
+          0,
+          0,
+          385,
+          461
+        ],
+        [
+          385,
+          0,
+          329,
+          461
+        ],
+        [
+          714,
+          0,
+          343,
+          461
+        ],
+        [
+          1057,
+          0,
+          326,
+          461
+        ],
+        [
+          1383,
+          0,
+          391,
+          461
+        ],
+        [
+          0,
+          461,
+          385,
+          426
+        ],
+        [
+          385,
+          461,
+          329,
+          426
+        ],
+        [
+          714,
+          461,
+          343,
+          426
+        ],
+        [
+          1057,
+          461,
+          326,
+          426
+        ],
+        [
+          1383,
+          461,
+          391,
+          426
+        ]
+      ],
+      "bytes": 288178,
+      "sha256": "66cd5c3f2391254c47ad4d333875f7204d45aa1504f9b1bfe0684d1ca9034ad8",
+      "originalSha256": "ed46ccb29068e839cc8431a200ea177a87bbbda9e2e62f57fda7d8b7f72bd832"
+    },
+    {
+      "key": "scene-showroom",
+      "file": "scene-showroom.webp",
+      "width": 1672,
+      "height": 941,
+      "grid": [
+        1,
+        1
+      ],
+      "bytes": 93210,
+      "sha256": "8e232247e7d50e3394eb086eca5896786140242f30637ea01475b81a374d8f44",
+      "originalSha256": "4f4cf358824e2b570f73e2215239e4af5d93688495e35f1fe0b4199b5fa46c13"
+    },
+    {
+      "key": "portraits-c",
+      "file": "portraits-c.webp",
+      "width": 1774,
+      "height": 887,
+      "grid": [
+        3,
+        1
+      ],
+      "bytes": 171912,
+      "sha256": "6bf375e4486ab470e27385d0e40679a82021833dccfd5a8489aa9eb0d0a677ec",
+      "originalSha256": "56d484b26326a8780ae9786cdcb46d4f589dd156734d754f09655bbf6a6fa189"
+    },
+    {
+      "key": "scene-store",
+      "file": "scene-store.webp",
+      "width": 1672,
+      "height": 940,
+      "grid": [
+        1,
+        1
+      ],
+      "bytes": 148634,
+      "sha256": "a245765b4fc5931a561edd9b8e070cd859a63cd17355e1460a97e3b9d4d3bda3",
+      "originalSha256": "d90bb783e978c78ce8d54516e3ba805b89d9d39b34d8cba9d99cc29f97eff5c7"
+    },
+    {
+      "key": "scene-office",
+      "file": "scene-office.webp",
+      "width": 1672,
+      "height": 941,
+      "grid": [
+        1,
+        1
+      ],
+      "bytes": 97612,
+      "sha256": "6b6e1c9317080374fe21f8b6d1952c3d6d37746af79ff4399a1cc604016730cf",
+      "originalSha256": "375ff1778bceeb44259dbecf1b8bd3ee7781b1230a617a0966cfd532f7ba9711"
+    },
+    {
+      "key": "scene-warehouse",
+      "file": "scene-warehouse.webp",
+      "width": 1672,
+      "height": 941,
+      "grid": [
+        1,
+        1
+      ],
+      "bytes": 102014,
+      "sha256": "2166de36657cf98d8784e90a6b97061daee81669a6c7f6403c623950099abb6a",
+      "originalSha256": "201a7bfd3dd11f87cea31b646556e6292b619c1764d9904f54c592f08b41e1c1"
+    },
+    {
+      "key": "portraits-a",
+      "file": "portraits-a.webp",
+      "width": 1881,
+      "height": 836,
+      "grid": [
+        3,
+        1
+      ],
+      "bytes": 172118,
+      "sha256": "23bde0a27a5bb603069beffe2db7d810418047fe1ad6f105b77b79d5d05ddc40",
+      "originalSha256": "0508dd9e784df954b6619f7ad4e7870720ff1bd44fd9002f7159d52b05b70609"
+    },
+    {
+      "key": "portraits-b",
+      "file": "portraits-b.webp",
+      "width": 1774,
+      "height": 887,
+      "grid": [
+        3,
+        1
+      ],
+      "bytes": 215560,
+      "sha256": "a87f11d8f05d1a9b0c62efeeb80b3d96c2cd04666bf9c4e86883d5bea0d8847e",
+      "originalSha256": "fe0783095339a0dd738459fda36f2c4b20911911fec20b3dea4d48d8fa8fd1d2"
+    },
+    {
+      "key": "key-art",
+      "file": "key-art.webp",
+      "width": 1672,
+      "height": 941,
+      "grid": [
+        1,
+        1
+      ],
+      "bytes": 68684,
+      "sha256": "7f53ef8b27ce821e18152d2a57ba395368c88f5ddc1bb6c6dfca65ea5ae949ae",
+      "originalSha256": "d09eb65e92a53e9fc0e1dad07a6e0591dc440bda54733c49419f2306f2a5977c"
+    },
+    {
+      "key": "portrait-player",
+      "file": "portrait-player.webp",
+      "width": 1086,
+      "height": 1448,
+      "grid": [
+        1,
+        1
+      ],
+      "bytes": 151794,
+      "sha256": "779f218219d388524fd32f3cf04e04222fa8249c2873f1ecaea9f9f519e10b2c",
+      "originalSha256": "6888e5cf42dedcf51fdeb007cfa0367af6350ff0b50b7cc70344ab0f213b9228"
+    }
+  ],
+  "recipes": [
+    {
+      "key": "retail",
+      "scene": "scene-store",
+      "player": 0,
+      "colleague": 2,
+      "label": "门店经营"
+    },
+    {
+      "key": "supplier",
+      "scene": "scene-office",
+      "player": 0,
+      "colleague": 9,
+      "label": "供应商协商"
+    },
+    {
+      "key": "home",
+      "scene": "scene-showroom",
+      "player": 0,
+      "colleague": 6,
+      "label": "家居交付"
+    },
+    {
+      "key": "appliance",
+      "scene": "scene-showroom",
+      "player": 0,
+      "colleague": 4,
+      "label": "家电送装"
+    },
+    {
+      "key": "crossborder",
+      "scene": "scene-crossborder",
+      "player": 0,
+      "colleague": 7,
+      "label": "跨境运营"
+    },
+    {
+      "key": "review",
+      "scene": "scene-office",
+      "player": 0,
+      "colleague": 1,
+      "label": "经营复盘"
+    }
+  ]
+}

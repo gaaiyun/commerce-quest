@@ -1,0 +1,45 @@
+{
+  "version": 3,
+  "origin": "本作原创生成概念稿。不是第三方动画/插画资源，不标为 CC0。",
+  "assets": [
+    {
+      "key": "scene-ecommerce-study",
+      "file": "scene-ecommerce-study.webp",
+      "width": 1672,
+      "height": 941,
+      "grid": [
+        1,
+        1
+      ],
+      "bytes": 125180,
+      "sha256": "15ea19bbb91308f64575664f84e99433ac291735d1faea998035f2d4d86b0e08",
+      "originalSha256": "70917d9da1b62a9e338eb514775ca8c5f160c3d57556a67449a82f024b7236d6"
+    },
+    {
+      "key": "direction-b",
+      "file": "direction-b.webp",
+      "width": 1672,
+      "height": 941,
+      "grid": [
+        1,
+        1
+      ],
+      "bytes": 90536,
+      "sha256": "3bedcdae5c530d14ce5d1392da61a546d7c9d7cd2f56e3595c5d7c656c823aaa",
+      "originalSha256": "f3375d8cbe5e68ae505bdd4300e5fd8f113107b5e03df2ea49459f2272bfcd9e"
+    },
+    {
+      "key": "direction-a",
+      "file": "direction-a.webp",
+      "width": 1672,
+      "height": 941,
+      "grid": [
+        1,
+        1
+      ],
+      "bytes": 97424,
+      "sha256": "28ddccab4cbcdfb946c6dae4dee5ec50f354b51a575651594df39b07cdcb754f",
+      "originalSha256": "fcf6ba89d46894699a34f47d042fd58005be2f94df6381b9c7b356c8f30e67fd"
+    }
+  ]
+}

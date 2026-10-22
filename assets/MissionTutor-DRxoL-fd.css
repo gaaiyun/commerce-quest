@@ -1,0 +1,1 @@
+.mission-tutor{position:fixed;right:18px;top:84px;bottom:96px;width:min(380px,92vw);z-index:120;display:flex;border:2px solid var(--pop-ink, #1B2A4A);border-radius:12px;box-shadow:6px 6px 0 var(--pop-ink, #1B2A4A);overflow:hidden;background:var(--pop-card, #FFFBF1)}.mission-tutor .lab-ai{flex:1;border-left:0}

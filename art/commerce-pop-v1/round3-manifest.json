@@ -1,0 +1,225 @@
+{
+  "version": 1,
+  "collection": "commerce-pop-v1",
+  "selectedModels": {
+    "wang": "character-wang-v2.png",
+    "daniel": "character-daniel-v6.png",
+    "kai": "character-kai-v6.png",
+    "zhao": "character-zhao-v7.png"
+  },
+  "origin": "本作原创生成美术，非第三方动漫素材，不标为CC0。",
+  "assets": [
+    {
+      "key": "portrait-wang",
+      "file": "cast/portrait-wang.webp",
+      "width": 600,
+      "height": 800,
+      "bytes": 20126,
+      "sha256": "49c22e6a1b88203689d408d285db82e04242fec2ffdf1f3889e7d1e312e78acb"
+    },
+    {
+      "key": "face-wang",
+      "file": "cast/face-wang.webp",
+      "width": 1200,
+      "height": 400,
+      "bytes": 39360,
+      "sha256": "e8b6bab666ffcdc67dfd0846e10af1f74c74c9764de2e6f2725aab76df87fb46"
+    },
+    {
+      "key": "hero-wang",
+      "file": "cast/hero-wang.webp",
+      "width": 578,
+      "height": 1400,
+      "bytes": 54250,
+      "sha256": "007df2a70dabf52a31aa699457e4a68dd7cf5692f4d49bf9e52e2543debd2098"
+    },
+    {
+      "key": "chibi-wang",
+      "file": "cast/chibi-wang.webp",
+      "width": 280,
+      "height": 600,
+      "bytes": 30138,
+      "sha256": "8be5509e0b307eb36956e79c4d73f8f201fc8f4f559c18d3826e28007b7627a6"
+    },
+    {
+      "key": "portrait-daniel",
+      "file": "cast/portrait-daniel.webp",
+      "width": 600,
+      "height": 800,
+      "bytes": 38266,
+      "sha256": "66338a2ac28a2ff96c11be9b86dab7c52d526ea46a6994b50735fe13ccb0a4c8"
+    },
+    {
+      "key": "face-daniel",
+      "file": "cast/face-daniel.webp",
+      "width": 1200,
+      "height": 400,
+      "bytes": 57408,
+      "sha256": "7175a24ae2515e2e7f7721a77893cbe5566cdbe863bff230f2cd0ba294b9455d"
+    },
+    {
+      "key": "hero-daniel",
+      "file": "cast/hero-daniel.webp",
+      "width": 396,
+      "height": 1400,
+      "bytes": 56042,
+      "sha256": "431a9870433d7f5f1931e883c4e58d5d52300f4e9c0f6f899221caa2bc6381d8"
+    },
+    {
+      "key": "chibi-daniel",
+      "file": "cast/chibi-daniel.webp",
+      "width": 387,
+      "height": 600,
+      "bytes": 39122,
+      "sha256": "1a971eb7734d97a85c1162c6ef1b064a9128896ee8583aa95a3255670df96fd1"
+    },
+    {
+      "key": "portrait-kai",
+      "file": "cast/portrait-kai.webp",
+      "width": 600,
+      "height": 800,
+      "bytes": 25238,
+      "sha256": "36da0c3fd7ed72a99a5cb56f4a9de8e61e37602cc07bacb3a3a9acce8eac8fdf"
+    },
+    {
+      "key": "face-kai",
+      "file": "cast/face-kai.webp",
+      "width": 1200,
+      "height": 400,
+      "bytes": 42406,
+      "sha256": "3442a77af08500ba2018c480eff9110796e81bd5ac1dd2350b8200ab7614abe3"
+    },
+    {
+      "key": "hero-kai",
+      "file": "cast/hero-kai.webp",
+      "width": 412,
+      "height": 1400,
+      "bytes": 44588,
+      "sha256": "0dba4e058515ec3097ac0fc30245a9f78324d80a017226099cab98526b543ce6"
+    },
+    {
+      "key": "chibi-kai",
+      "file": "cast/chibi-kai.webp",
+      "width": 279,
+      "height": 600,
+      "bytes": 29964,
+      "sha256": "53d81cc416afe241f10dd35916991cf25b4062f6de427c2dd0d7c4f595834c05"
+    },
+    {
+      "key": "portrait-zhao",
+      "file": "cast/portrait-zhao.webp",
+      "width": 600,
+      "height": 800,
+      "bytes": 26048,
+      "sha256": "4fd64a9e7e5fd2afb35745c040077523356fe12f4d78705d461b75da8b458f6d"
+    },
+    {
+      "key": "face-zhao",
+      "file": "cast/face-zhao.webp",
+      "width": 1200,
+      "height": 400,
+      "bytes": 42742,
+      "sha256": "e30ea111e16ef9537c945553f06162f7c31a4e21c9669d903a1b505701447f6f"
+    },
+    {
+      "key": "hero-zhao",
+      "file": "cast/hero-zhao.webp",
+      "width": 450,
+      "height": 1400,
+      "bytes": 47436,
+      "sha256": "6aea9246e128ab1f25ea9d5438e4a4e6cd9c5840bad61a6db94bba4e696760d3"
+    },
+    {
+      "key": "chibi-zhao",
+      "file": "cast/chibi-zhao.webp",
+      "width": 334,
+      "height": 600,
+      "bytes": 31446,
+      "sha256": "5025fd9479aa4483d7138a08257f7f97abfa3db881e5b01348564036e64c06c7"
+    },
+    {
+      "key": "customers",
+      "file": "ui/customers.webp",
+      "grid": [
+        6,
+        2
+      ],
+      "width": 768,
+      "height": 384,
+      "bytes": 85318,
+      "sha256": "c71fdf1a45407215e200ee51a011cc8e0d802a1996184d5c9e87df0c230c1c44"
+    },
+    {
+      "key": "products-gadget",
+      "file": "products/products-gadget.webp",
+      "grid": [
+        3,
+        2
+      ],
+      "width": 864,
+      "height": 576,
+      "bytes": 69728,
+      "sha256": "55427387dec2aca1c3c59362135d1ff39fd8fdf542bb0e7a8740859c3e94c40b"
+    },
+    {
+      "key": "products-market",
+      "file": "products/products-market.webp",
+      "grid": [
+        4,
+        3
+      ],
+      "width": 1152,
+      "height": 864,
+      "bytes": 151884,
+      "sha256": "6da968c709c212ebeab153bb251f69add27da43bbae07dde7cbb02022a748c42"
+    },
+    {
+      "key": "products-fmcg",
+      "file": "products/products-fmcg.webp",
+      "grid": [
+        4,
+        3
+      ],
+      "width": 1152,
+      "height": 864,
+      "bytes": 135878,
+      "sha256": "8a7dd937bd6ec15400cd54172772e24dba4156c5cd02e8d612567584ee1d1bb3"
+    },
+    {
+      "key": "products-appliance",
+      "file": "products/products-appliance.webp",
+      "grid": [
+        4,
+        2
+      ],
+      "width": 1152,
+      "height": 576,
+      "bytes": 55824,
+      "sha256": "c19fecfb677a9d39ff206391482c90df70e13330f9b7b55a550799704165a165"
+    },
+    {
+      "key": "products-home",
+      "file": "products/products-home.webp",
+      "grid": [
+        3,
+        3
+      ],
+      "width": 864,
+      "height": 864,
+      "bytes": 86126,
+      "sha256": "18ac8adf79c8b015e5b28ed3763e260bfffde97a41c284413a9656e6be09f664"
+    },
+    {
+      "key": "products-living",
+      "file": "products/products-living.webp",
+      "grid": [
+        3,
+        2
+      ],
+      "width": 864,
+      "height": 576,
+      "bytes": 81224,
+      "sha256": "f7e388a63969e6d0fd9ee163180095bb02adf2c57dbe84712a8afab62a547460"
+    }
+  ]
+}
