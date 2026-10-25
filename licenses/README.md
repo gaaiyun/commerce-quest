@@ -180,6 +180,7 @@ SQLite 本身为公有领域，sql.js 将其编译为 WebAssembly。
 - **美术**：`public/art/commerce-anime-v1/`（场景、商品、旧版人物）与 `public/art/commerce-pop-v1/`（第二轮人设：立绘、表情、Q 版、全身像）为本作使用图像生成工具制作的原创插画，原图与完整提示词保存在 `assets/art-source/` 对应目录；运行时裁切由 `assets/art-source/commerce-pop-v1/build-cast.py` 生成。不含第三方游戏素材，不标记为 CC0。**上架 Steam 时需按平台要求在提交表单中披露使用了 AI 生成内容。**
 - **场景与界面的 SVG 绘制、图标布局、门店顾客小人与新品包装占位图**：本作自制；图标来自 Lucide（ISC）。
 - **音效**：游戏内音效与环境音由 Web Audio 程序实时合成，没有使用音频文件。
+- **背景音乐**：`public/audio/bgm/` 六首为本作原创编曲（`trailer-op/music/bgm.js`），用 Tone.js 离线渲染；钢琴音色使用 Salamander Grand Piano V3 采样（Alexander Holm，CC-BY 3.0，https://archive.org/details/SalamanderGrandPianoV3 ），按协议在游戏「制作人员」页署名。
 - **字体**：标题与数字使用随包分发的得意黑 Smiley Sans 2.0.1（SIL OFL 1.1，原文 `smiley-sans-2.0.1-OFL.txt`）；正文使用操作系统自带字体。
 
 ## 数据与内容
